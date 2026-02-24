@@ -49,6 +49,7 @@ Me chamo Lucas Cardoso dos Santos, tenho 17 anos e sou natural de Mogi guaçu. E
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+<img
 
 <br/>
 <br/>
