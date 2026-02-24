@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Cardoso
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Lucas Cardoso dos Santos, tenho 17 anos e sou natural de Mogi guaçu. Estou cursando o 2 ano do ensino médio no Padre Longino Vastbinder, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no canal Curso em Vídeo. Sou obcecado por tecnologia e compartilho meu conhecimento para meus amigos de minha sala e que estão cursando junto comigo.
 
