@@ -2,7 +2,11 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Lucas Cardoso dos Santos, tenho 17 anos e sou natural de Mogi guaçu. Estou cursando o 2 ano do ensino médio no Padre Longino Vastbinder, com o curso técnico em informática. Atualmente, estou cursando Desenvolvimento de Sistemas no canal Curso em Vídeo e no curso na minha escola patrocinado pela ETEC. Sou obcecado por tecnologia e compartilho meu conhecimento para meus amigos de minha sala e que estão cursando junto comigo.
+Me chamo Lucas Cardoso dos Santos, tenho 17 anos e sou estudante do 2º ano do Ensino Médio integrado ao curso técnico em Informática na EE Padre Longino Vastbinder, em Mogi Guaçu (SP).
+
+Atualmente, estou em formação como Desenvolvedor de Sistemas, com estudos pelo curso técnico em parceria com a ETEC e também por meio de cursos complementares, como o Curso em Vídeo. Iniciei recentemente minha jornada com a linguagem Java, ampliando meu foco em desenvolvimento e boas práticas de programação.
+
+Sou entusiasta da tecnologia, com grande interesse em aprendizado contínuo e evolução na área de desenvolvimento. Gosto de compartilhar conhecimento, colaborar com colegas e enfrentar novos desafios que contribuam para o meu crescimento profissional.
 
 <p>
     </a> 
