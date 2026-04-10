@@ -62,3 +62,11 @@ Sou entusiasta da tecnologia, com grande interesse em aprendizado contínuo e ev
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="center" 
+    alt="Giovani" 
+    height="30" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+    />
+
