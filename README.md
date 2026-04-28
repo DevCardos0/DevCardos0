@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Cardoso
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Lucas Cardoso dos Santos, tenho 17 anos e sou estudante do 2º ano do Ensino Médio integrado ao curso técnico em Informática na EE Padre Longino Vastbinder, em Mogi Guaçu (SP).
 
